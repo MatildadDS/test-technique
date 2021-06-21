@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test-technique/static/css/main.c8154c11.chunk.css",
+    "main.js": "/test-technique/static/js/main.6961410a.chunk.js",
+    "main.js.map": "/test-technique/static/js/main.6961410a.chunk.js.map",
+    "runtime-main.js": "/test-technique/static/js/runtime-main.557a386a.js",
+    "runtime-main.js.map": "/test-technique/static/js/runtime-main.557a386a.js.map",
+    "static/js/2.28f1f777.chunk.js": "/test-technique/static/js/2.28f1f777.chunk.js",
+    "static/js/2.28f1f777.chunk.js.map": "/test-technique/static/js/2.28f1f777.chunk.js.map",
+    "index.html": "/test-technique/index.html",
+    "static/css/main.c8154c11.chunk.css.map": "/test-technique/static/css/main.c8154c11.chunk.css.map",
+    "static/js/2.28f1f777.chunk.js.LICENSE.txt": "/test-technique/static/js/2.28f1f777.chunk.js.LICENSE.txt",
+    "static/media/down-chevron.f03a3cfe.svg": "/test-technique/static/media/down-chevron.f03a3cfe.svg",
+    "static/media/instagram.166ec58e.jpeg": "/test-technique/static/media/instagram.166ec58e.jpeg",
+    "static/media/ipad-1.e10db89f.png": "/test-technique/static/media/ipad-1.e10db89f.png",
+    "static/media/iphone-1.4f8a0ce9.png": "/test-technique/static/media/iphone-1.4f8a0ce9.png",
+    "static/media/landing-1.7d8aa4ae.jpeg": "/test-technique/static/media/landing-1.7d8aa4ae.jpeg",
+    "static/media/legrand.bd597a01.svg": "/test-technique/static/media/legrand.bd597a01.svg",
+    "static/media/station-1.69d52567.png": "/test-technique/static/media/station-1.69d52567.png",
+    "static/media/station-2.c6c13f64.jpeg": "/test-technique/static/media/station-2.c6c13f64.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.557a386a.js",
+    "static/js/2.28f1f777.chunk.js",
+    "static/css/main.c8154c11.chunk.css",
+    "static/js/main.6961410a.chunk.js"
+  ]
+}
