@@ -1,0 +1,16 @@
+.footer_content{
+    width: 750px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0
+    ;
+}
+
+.footer_content img{
+    width: 200px;
+}
+
+.footer_content img:first-child{
+    width: 150px;
+}

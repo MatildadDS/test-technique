@@ -1,0 +1,43 @@
+.weathermap_container {
+  background-color: rgba(56, 140, 191, 1);
+  margin: 0 auto;
+}
+
+.weathermap_header{
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.weathermap_content {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logo-netatmo {
+  width: 170px;
+}
+
+.weathermap_title {
+  font-size: 24px;
+  line-height: 1.5;
+  color: rgba(246, 246, 246, 1);
+}
+
+iframe {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/*button img {
+  width: 50px;
+  filter: invert(45%) sepia(99%) saturate(250%) hue-rotate(158deg)
+    brightness(90%) contrast(88%) opacity(0.8);
+  border: none;
+  background: none;
+}*/

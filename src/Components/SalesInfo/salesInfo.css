@@ -1,0 +1,58 @@
+.sales_container{
+    background-color: white;
+}
+
+.sales_content{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.sales_first_section{
+    display: flex;
+}
+
+.sales_infos{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.sales_title{
+    width: 250px;
+    font-size: 30px;
+    color: rgba(56, 140, 191, 1);
+}
+
+.sales_infos p{
+    font-size: 40px;
+    margin-top: 0;
+}
+
+.sales_infos span{
+    padding-top: 30px;
+    color: rgba(56, 140, 191, 1);
+}
+
+.sales_second_section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.sales_details{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    width: 250px;
+}
+
+.sales_details span{
+    font-weight: lighter;
+}

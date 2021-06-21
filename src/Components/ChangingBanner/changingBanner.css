@@ -1,0 +1,26 @@
+.changingBanner_container{
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+    background-size: cover;
+}
+
+.changingBanner_container img{
+    width: 1920px;
+    height: 350px;
+    object-fit: cover;
+    filter: invert(45%) sepia(99%) saturate(250%) hue-rotate(158deg) brightness(90%) contrast(88%) opacity(0.8);
+}
+
+.changingBanner_content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    line-height: 1.6;
+}
+
+span{
+    font-weight: bolder;
+}
